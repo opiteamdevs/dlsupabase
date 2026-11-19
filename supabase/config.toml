@@ -1,2 +1,6 @@
 [functions.cakto-expiration-webhook]
-verify_jwt = false
+verify_jwt=false
+[functions.cakto-payment-webhook]
+verify_jwt=false
+[functions.cakto-webhook]
+verify_jwt=false
